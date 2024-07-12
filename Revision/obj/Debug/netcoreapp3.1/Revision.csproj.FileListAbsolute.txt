@@ -1,0 +1,14 @@
+C:\Users\Flint\source\repos\Revision\Revision\bin\Debug\netcoreapp3.1\Revision.exe
+C:\Users\Flint\source\repos\Revision\Revision\bin\Debug\netcoreapp3.1\Revision.deps.json
+C:\Users\Flint\source\repos\Revision\Revision\bin\Debug\netcoreapp3.1\Revision.runtimeconfig.json
+C:\Users\Flint\source\repos\Revision\Revision\bin\Debug\netcoreapp3.1\Revision.runtimeconfig.dev.json
+C:\Users\Flint\source\repos\Revision\Revision\bin\Debug\netcoreapp3.1\Revision.dll
+C:\Users\Flint\source\repos\Revision\Revision\bin\Debug\netcoreapp3.1\Revision.pdb
+C:\Users\Flint\source\repos\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.csproj.AssemblyReference.cache
+C:\Users\Flint\source\repos\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flint\source\repos\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.AssemblyInfoInputs.cache
+C:\Users\Flint\source\repos\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.AssemblyInfo.cs
+C:\Users\Flint\source\repos\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.csproj.CoreCompileInputs.cache
+C:\Users\Flint\source\repos\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.dll
+C:\Users\Flint\source\repos\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.pdb
+C:\Users\Flint\source\repos\Revision\Revision\obj\Debug\netcoreapp3.1\Revision.genruntimeconfig.cache
